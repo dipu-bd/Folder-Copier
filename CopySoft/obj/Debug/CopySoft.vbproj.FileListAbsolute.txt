@@ -1,0 +1,17 @@
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\bin\Debug\CopySoft.exe
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\bin\Debug\CopySoft.pdb
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\bin\Debug\CopySoft.xml
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\obj\Debug\CopySoft.Form1.resources
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\obj\Debug\CopySoft.Resources.resources
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\obj\Debug\CopySoft.vbproj.GenerateResource.Cache
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\obj\Debug\CopySoft.exe
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\obj\Debug\CopySoft.xml
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\obj\Debug\CopySoft.pdb
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\bin\Debug\CopySoft.exe.manifest
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\bin\Debug\CopySoft.application
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\obj\Debug\CopySoft.exe.manifest
+D:\Projects\Software Project\Visual Studio 2008\Visual Basic\CopySoft\CopySoft\obj\Debug\CopySoft.application
+H:\Visual Studio\Visual Basic Projects\CopySoft\CopySoft\obj\Debug\CopySoft.exe
+H:\Visual Studio\Visual Basic Projects\CopySoft\CopySoft\obj\Debug\CopySoft.xml
+H:\Visual Studio\Visual Basic Projects\CopySoft\CopySoft\obj\Debug\CopySoft.pdb
